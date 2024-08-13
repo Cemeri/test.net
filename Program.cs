@@ -32,3 +32,5 @@ db.SaveChanges();
 Console.WriteLine("Delete the blog");
 db.Remove(blog);
 db.SaveChanges();
+
+// fin de programa 
